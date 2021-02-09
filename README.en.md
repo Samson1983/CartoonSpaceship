@@ -1,37 +1,32 @@
-# CartoonSpaceship
+# Cartoon spaceship first edition
 
-#### Description
-卡通飞船 初版 ：功能：地球绕太阳自转、顶部的飞般可以拖动。
-2013写的练手应用
-
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+#### Introduction
+Cartoon Spaceship First Edition: Function: The earth rotates around the sun, and the top fly can be dragged.
+Hand training app written in 2013
 
 
-#### Gitee Feature
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### Features:
+
+1. the earth rotates around the sun
+2. The fly at the top can be dragged.
+
+
+
+##### Draggable pictures
+
+<img src="README.assets/1.jpg" alt="1" style="zoom: 100%;" />
+
+<img src="README.assets/2.jpg" alt="2" style="zoom:25%;" />
+
+
+
+<img src="README.assets/3.jpg" alt="3" style="zoom:25%;" />
+
+
+
+<img src="README.assets/4.jpg" alt="4" style="zoom:25%;" />
+
+<img src="README.assets/5.jpg" alt="5" style="zoom:25%;" />
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<!--  <style name="Theme" parent="android:Theme.Wallpaper">       -->
+ <style name="Theme">      
+  <!--     windowNoTitle设置为true，去掉标题栏        -->
+     <item name="android:windowNoTitle">true</item>    
+  <!--      设置全屏  -->
+<!--      <item name="android:windowFullscreen">true</item>
+     <item name="android:windowContentOverlay">@null</item>    -->  
+   </style>
+</resources>

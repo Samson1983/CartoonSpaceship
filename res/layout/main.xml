@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bk"
+    >
+     
+<ImageView  
+    android:layout_x="0px"
+    android:layout_y="10px"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/moon"
+    android:background="@drawable/moon"
+   />
+
+<ImageView  
+    android:layout_x="130px"
+    android:layout_y="10px"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/image"
+    android:background="@drawable/airship"
+   />
+<ImageView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/earthImage"
+    android:background="@drawable/earth000"
+   />
+<ImageView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/sunImage"
+    android:background="@drawable/sun"
+   />
+
+
+</AbsoluteLayout>
